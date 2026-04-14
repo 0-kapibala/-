@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc61949-8ffb-4592-a01a-589bda4dbb43" name="更改" comment="KNN测试" />
+    <list default="true" id="4fc61949-8ffb-4592-a01a-589bda4dbb43" name="更改" comment="原理参考西湖大学和苏神，代码参考菜鸟教程">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q_learning.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,47 @@
       <option name="project" value="LOCAL" />
       <updated>1776165510613</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="小白参考佬的算法刷的题">
+      <option name="closed" value="true" />
+      <created>1776166579982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776166579982</updated>
+    </task>
+    <task id="LOCAL-00003" summary="小白参考佬的算法刷的题">
+      <option name="closed" value="true" />
+      <created>1776166602272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776166602272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="小白参考佬的算法刷的题">
+      <option name="closed" value="true" />
+      <created>1776171284706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776171284706</updated>
+    </task>
+    <task id="LOCAL-00005" summary="原理参考西湖大学和苏神，代码参考菜鸟教程">
+      <option name="closed" value="true" />
+      <created>1776171430844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776171430844</updated>
+    </task>
+    <task id="LOCAL-00006" summary="原理参考西湖大学和苏神，代码参考菜鸟教程">
+      <option name="closed" value="true" />
+      <created>1776171464640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776171464640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KNN测试" />
     <MESSAGE value="小白参考佬的算法刷的题" />
-    <option name="LAST_COMMIT_MESSAGE" value="小白参考佬的算法刷的题" />
+    <MESSAGE value="原理参考西湖大学和苏神，代码参考菜鸟教程" />
+    <option name="LAST_COMMIT_MESSAGE" value="原理参考西湖大学和苏神，代码参考菜鸟教程" />
   </component>
 </project>
