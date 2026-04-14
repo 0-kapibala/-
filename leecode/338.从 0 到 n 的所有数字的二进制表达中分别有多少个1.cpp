@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+vector<int> countBits(int num){
+	vector<int> dp(num+1,0);
+	for(int i=1;i<=num;++i){
+		dp[i]=i&1?dp[i-1]+1:dp[i>>1];// µÈ¼ÛÓÚdp[i] = dp[i&(i-1)] + 1;
+	}
+	return dp;
+}
+
+int main()
+{
+return 0;
+}
